@@ -1,17 +1,27 @@
+@charset "UTF-8";
+body {
+  background-color: rgba(68, 133, 16, 0.63);
+}
 h1{
     font-style: bold;
     align-content: center;
     color: #0e0c0d;
+    margin: auto;
   }
 
   h2{
     
     size: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    color: rgb(248, 172, 71);
+    color: rgba(233, 236, 16, 0.938);
   }
-  .fundo{
-    background-color: #f5ecec;
+  img{
+    border: 10px solid darkslategray;
+    margin: auto;
+    margin: 20px auto 40px auto;
+    outline: 5px dashed rgba(206, 20, 181, 0.726);
+    text-decoration: none;
+    
   }
   p{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
